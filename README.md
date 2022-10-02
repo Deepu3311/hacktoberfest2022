@@ -24,10 +24,10 @@ In this repository, you can find the solutions (as source code) for the problems
 
 
 ### What to do
-fork this repository
-make changes or upload your (html/js/java/python) code/project 
-make pull request
-if it is not spammy it will be merged
+- fork this repository
+- make changes or upload your (html/js/java/python) code/project 
+- make pull request
+- if it is not spammy it will be merged
 
 
-Upload any of your working code 
+- Upload any of your working code 
